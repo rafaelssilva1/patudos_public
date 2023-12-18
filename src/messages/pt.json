@@ -1,0 +1,235 @@
+{
+  "header": {
+    "adopt": {
+      "text": "Adoção",
+      "url": "adotar"
+    },
+    "sponsor": {
+      "text": "Apadrinhamento",
+      "url": "apadrinhamento"
+    },
+    "pet-hotel": {
+      "text": "Hotel Animal",
+      "url": "hotel-animal"
+    },
+    "doggy-daycare": {
+      "text": "Creche Canina",
+      "url": "creche-canina"
+    },
+    "pet-sitting": {
+      "text": "Pet Sitting",
+      "url": "pet-sitting"
+    },
+    "about-us": {
+      "text": "Sobre Nós",
+      "url": "sobre-nos"
+    }
+  },
+  "footer": {
+    "title": {
+      "column-1": "Informações gerais",
+      "column-2": "Doações"
+    },
+    "links": {
+      "volunteer": {
+        "text": "Voluntariado",
+        "url": "voluntariado"
+      },
+      "donate": {
+        "text": "Doar",
+        "url": "doar"
+      },
+      "privacy-policy": {
+        "text": "Termos e Política de Privacidade",
+        "url": "politica-privacidade"
+      },
+      "adoption-conditions": {
+        "text": "Termos de Adoção",
+        "url": "condicoes-adocao"
+      },
+      "wire-transfer": {
+        "text": "Transferência Bancária: PT50 0007 0000 0053 9933 2352 3"
+      },
+      "mbway": {
+        "text": "Mbway: 915 152 155"
+      },
+      "paypal": {
+        "text": "Paypal: patudosdevagos@gmail.com"
+      }
+    }
+  },
+  "pet-details": {
+    "sex": {
+      "title": "Sexo",
+      "female": "Fêmea",
+      "male": "Macho"
+    },
+    "size": {
+      "title": "Tamanho"
+    },
+    "color": {
+      "title": "Cor"
+    },
+    "vaccinated": {
+      "title": "Vacinas"
+    },
+    "sterilized": {
+      "female": "Esterilizada",
+      "male": "Esterilizado"
+    },
+    "dewormed": {
+      "female": "Desparasitada",
+      "male": "Desparasitado"
+    },
+    "fivFelv": {
+      "title": "Fiv/Felv"
+    },
+    "buttons": {
+      "know-my-story": "Conhece a minha história",
+      "adopt-me": "Adota-me",
+      "message": "Olá! Tenho interesse em saber mais informações sobre o seguinte animal:"
+    }
+  },
+  "other-info": {
+    "error": {
+      "message": "Ocorreu um erro inesperado",
+      "button": "Tentar novamente"
+    },
+    "type": {
+      "cat": "Gato",
+      "dog": "Cão"
+    },
+    "age": {
+      "baby": "Bebé",
+      "junior": "Júnior",
+      "adult": "Adulto",
+      "senior": "Sénior"
+    },
+    "time": {
+      "month": "mês",
+      "months": "meses",
+      "year": "ano",
+      "years": "anos"
+    },
+    "months": {
+      "1": "Janeiro",
+      "2": "Fevereiro",
+      "3": "Março",
+      "4": "Abril",
+      "5": "Maio",
+      "6": "Junho",
+      "7": "Julho",
+      "8": "Agosto",
+      "9": "Setembro",
+      "10": "Outubro",
+      "11": "Novembro",
+      "12": "Dezembro"
+    }
+  },
+  "filters": {
+    "title": "Filtros",
+    "type": "Espécie",
+    "color": "Cor",
+    "age": "Idade",
+    "sex": "Sexo",
+    "size": "Porte",
+    "special-needs": "Excluir animais com necessidades especiais",
+    "clear-all-filters": "Limpar filtros"
+  },
+  "sort-by": {
+    "title": "Ordenar por",
+    "age-desc": "Mais novos",
+    "age-asc": "Mais velhos",
+    "pickup-desc": "Mais recentes",
+    "pickup-asc": "Mais antigos"
+  },
+  "adoption-form": {
+    "title": "Condições de Adoção",
+    "subtitle": "Termos de Adoção e Responsabilidade",
+    "form": "Pedido de Adoção",
+    "text": "<p>Todos os nossos animais são entregues vacinados, desparasitados e com chip.</p><p>Temos uma taxa de adoção de 40€ para nos ajudar a suportar os custos que vamos tendo com os animais.</p><p>A <b>esterilização é obrigatória entre os 4 e os 6 meses de idade</b>, pelo que fica uma caução de outros 40€ (para gatinhas fêmeas) ou de 25€ (para gatinhos machos) até que o animal seja esterilizado.</p><p>Pode optar por fazer a esterilização com a clínica com quem temos parceria, ficando as cirurgias já pagas com o valor da caução. Ou pode fazê-lo noutro veterinário e, nesse caso, a caução é devolvida quando recebermos a declaração de esterilização, desde que seja feita até ao dia em que o animal faz 7 meses. Caso contrário o valor é perdido.</p><p>O chip do animal fica em nome dos PatudosVagos até ser esterilizado. Quando recebermos a declaração de esterilização será alterada a titularidade do chip para o nome da sua nova família.</p><p>A partir da data de adoção, os adotantes assumem a responsabilidade total pelo animal em todas as circunstâncias. Consulte os nossos <a>Termos de Adoção e Responsabilidade</a></p><p>No caso de incumprimento da esterilização nos prazos acordados e não apresentação da declaração de esterilização, iremos notificar as autoridades competentes e iremos reaver o animal e proceder à sua esterilização.</p><p>Para gatos, só fazemos teste FIV e FeLV quando são esterilizados. No entanto, pode solicitar antes e tem um custo de 25€.</p><p>Estes animais em específico serão entregues esterilizados, vacinados, desparasitados, com chip e com teste FIV e FeLV. Temos uma taxa de adoção de 65€ para ajudar a suportar os custos que vamos tendo com os animais.</p><p>São bebés e precisam de super famílias ❤ que os amem, respeitem e que tratem deles para sempre. </p>",
+    "alert": "Antes de avançar com o processo de adoção consulte os nossos <link>termos de adoção</link>.",
+    "notice": "<p>O adotante deve:</p><ol><li>É responsável em dar abrigo e alimento ao animal, assim como acompanhamento médicoveterinário</li><li>Dar continuidade às vacinas e aos reforços indicados.</li><li>Tem consciência de que o animal pode adoecer em qualquer momento da sua vida e é obrigação do adotante dar o melhor apoio veterinário disponível, assim como suportar os seus custos, a partir do momento em que recebe o seu animal. Só deve adotar quem tem disponibilidade financeira para sustentar o animal. </li><li> Sabe que um animal pode viver mais de 20 anos e que é sua responsabilidade tratar dele durante toda a sua vida.</li><li>Se compromete a, em caso de não poder ter mais a guarda do animal, informar imediatamente a PATUDOSVAGOS - ASSOCIAÇÃO e cuidar do animal até que se encontre um novo lar ou pagar uma taxa de devolução no valor de 100€. </li><li>Em caso de suspeita de maus-tratos ao animal, a PATUDOSVAGOS - ASSOCIAÇÃO fará uma visita à residência do adotante e, ficando provado que o animal é vítima de maus-tratos, este será retirado do dono.</li></ol>",
+    "thank-you": "Obrigado!<p>Entraremos em contacto o mais brevemente possível.</p>",
+    "error": "Ocorreu um erro. Por favor tente novamente.",
+    "yes": "Sim",
+    "no": "Não",
+    "fields": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "municipality": "Concelho",
+      "pets-at-home": "Tem animais em casa?",
+      "how-many-pets": "Quantos?",
+      "pet-types": "Quais?",
+      "how-many-sterilized": "Quantos são esterilizados?",
+      "submit": "Submeter"
+    }
+  },
+  "privacy-policy": {
+    "title": "Política de Privacidade",
+    "content": "<p>Na Associação Patudos Vagos tratamos os seus dados com todos os cuidados. O nosso objectivo é sermos transparentes em relação aos dados que recolhemos e dar-lhe o controlo sobre a sua informação e sobre como pode ser usada.</p><h2>Onde recolhemos os seus dados pessoais</h2><p>Os seus dados pessoais são recolhidos nas seguintes circunstâncias:</p><ul><li>Quando nos fornece os seus dados directamente, ou seja, quando: faz um donativo, usa um dos nossos serviços, compra um dos nossos produtos, demonstra interesse em tornar-se nosso funcionário ou voluntário, nos contact com alguma questão, procura a nossa ajuda, adota um animal de companhia, participa numa formação da associação.</li><li>Quando nos fornece os seus dados indirectamente: poderá fornecer-nos a sua informação sempre que participa num evento organizado por outra entidade mas que conta com a colaboração da Associação Patudos Vagos. Os parceiros da Patudos Vagos, na eventualidade referida, irão pedir sempre o seu consentimento em nome da Patudos Vagos.</li><li>Quando usa as redes sociais da Patudos Vagos: quando usa os nossos serviços nas redes sociais Facebook e Instagram, as suas definições de privacidade poderão dar-nos acesso à sua informação. Estes cookies dão-nos informação detalhada sobre a forma como os nossos utilizadores usam as nossas redes sociais. Pode ver e alterar as suas definições em cada uma das seguintes redes sociais (Facebook, Instagram)</li><li>Quando a sua informação é do domínio público: poderemos obter a sua informação sempre que a publicitar, ou através da comunicação social.</li><li>Quando recolhemos informação através do nosso site: Cookies, Ao visitar o site da Patudos Vagos estará também a fornecer-nos o seu endereço de IP dinâmico, Google Analytics, Google Tag Manager and Google AdWords.</li></ul><h2>Que dados pessoais recolhemos?</h2><ul><p>Dados pessoais: nome, email, telefone, morada, país de residência, data de nascimento, endereço de ip dinâmico, outros para fins de adoção ou formações</p></ul><h2>Como usamos os seus dados?</h2><p>Existem 6 bases legais para processamento dos seus dados pessoais, à Patudos Vagos apenas se aplicam 3:</p><ul><li>Contrato: Existe sempre uma relação contratual entre os utilizadores dos serviços e plataformas da Patudos Vagos e a própria Patudos Vagos, desta forma, como parte envolvida, tem direitos e deveres associados.</li><li>Interesse Legítimo: A Patudos Vagos apenas usa os seus dados pessoais para fins legítimos e compromete-se a considerar sempre os seus direitos e a minimizar o impacto de eventuais violações da sua privacidade.</li><li>Consentimento: A informação é apenas processada com base no seu consentimento explícito.</li></ul><p>Usamos os seus dados em:</p><ul><li>Marketing e Angariação de Fundos: A Patudos Vagos usa os seus dados pessoais para fins de marketing e angariação de fundos, apenas no âmbito de actividades da associação ou parceiros. (ver secção de marketing e consentimento)</li><li>Prestação de Serviços e Vendas: Sempre que requisitar os serviços da Patudos Vagos, por fim a dar seguimento ao seu pedido, iremos sempre processar os seus dados; Incluindo adopções e formações</li></ul><h2>Marketing e consentimento</h2><p>A Patudos Vagos apenas irá enviar comunicações que julgue ser do seu interesse, estas comunicações podem ser com destino à publicidade ou angariação de fundos mas também apenas para lhe transmitir notícias sobre a associação.</p><p>Sempre que se registar na nossa newsletter receberá um email onde será necessário o seu consentimento para que possa receber as nossas informações. Em todas as comunicações que lhe enviarmos terá a possibilidade de eliminar os seus dados na nossa base de dados e assim deixar de receber as nossas informações. Caso esta comunicação seja feita por email directo, pode também responder com o seu desejo de deixar de receber as nossas informações.</p><h2>Se partilhamos os seus dados a terceiros</h2><p>A Patudos Vagos nunca irá vender os seus dados pessoais a terceiros por razões de marketing ou outros.</p><h2>A segurança dos seus dados</h2><p>Os seus direitos de protecção de dados estão de acordo com o Regulamento Geral de Proteção de Dados que vigora desde 25 de Maio de 2018.</p><p>Os seus direitos são:</p><ul><li>O direito de ser informado se os seus dados estão a ser armazenados, processados ou transferidos</li><li>O acesso aos seus dados e informações</li><li>A possibilidade de correções dos seus dados</li><li>O direito a ver os seus dados eliminados das nossas bases de dados ou de terceiros a quem os fornecemos, excepto nos casos previstos na legislação ou de acordo com os regulamentos de adoção e formação da associação</li><li>O direito à restrição de processamento. Está no seu direito de limitar a forma como processamos os seus dados, excepto nos casos previstos na legislação ou de acordo com os regulamentos de adoção e formação da associação</li><li>O direito à portabilidade, este direito, pelos serviços prestados não se aplicam à Patudos Vagos.</li><li>O direito à objecção, excepto nos casos previstos na legislação ou de acordo com os regulamentos de adoção e formação da associação</li><li>O direito a perceber e que lhe seja explicado caso os seus dados estejam a ser segmentados e quais as razões.</li></ul><h2>Durante quanto tempo armazenamos os seus dados?</h2><p>A Patudos Vagos armazenará os seus dados pelo tempo necessário para a persecução dos fins a qual se destinou a recolha destes dados, com as seguintes excepções: </p><ul><li>No caso das formações certificadas pelo tempo necessário e exigido pela legislação em vigor.</li><li>No caso de adopções que guardaremos os seus dados mesmo depois da morte do seu animal.</li></ul><h2>O que deve fazer caso queira colocar alguma questão ou tenha alguma preocupação?</h2><p>Sempre que pretender algum esclarecimento deverá contactar a Patudos Vagos para o email geral@patudosvagos.pt.</p>"
+  },
+  "donate": {
+    "title": "Doações",
+    "text": "O seu donativo pode salvar vidas!"
+  },
+  "volunteer": {
+    "highlight": "Ser Voluntário",
+    "title": "da Patudos Vagos",
+    "text-1": "<p>Ser Voluntário é darmos o que tivermos dispostos a dar. Cada voluntário dá o que quer. Seja:</p><ul><li>tempo para uma sessão fotográfica</li><li>Tratar dos cães e/ou gatos</li><li>Ajudar nos resgates</li><li>Montar um novo brinquedo/passatempo para os nossos meninos</li><li>Organizar ações de sensibilização</li><li>Ajudar numa recolha de bens</li><li>Ajudar nas vendas e/ou angariação de fundos</li><li>Ajudar na captura de CED e em toda a logística</li><li>Ajudar monetariamente ou com donativos</li><li>Apenas miminhos! Tão importante para eles!</li><li>Toda e qualquer ajuda é bem vinda! Diga só como quer ajudar</li></ul><p>A PatudosVagos - Associação tem neste momento 2 abrigos. Um em Santo André de Vagos e outro na Gafanha da Nazaré. Ambos ainda em obras!</p><p><b>O trabalho voluntário contribui para que os animais tenham melhor qualidade de vida.</b></p><p>O voluntariado não é um emprego ou trabalho rígido, por isso exclui-se qualquer tipo de contrato formal. Não obstante, o compromisso, o empenho e a assiduidade, são requisitos fundamentais. A organização e gestão dos recursos existentes é realizada pelos membros da direção da associação e é muito importante para um bom funcionamento estrutural. Os trabalhos realizados pelos voluntários para ajudar, não devem ser tomados como uma obrigação, mas sim vistos como um tempo de satisfação, dedicação e de saudável convívio.</p><ul><li>O trabalho como voluntário é extremamente gratificante, sem dúvida, mas pela incapacidade em resolver com sucesso todos os casos reportados, pode ser esgotante, já que, infelizmente, os casos de abandono e maus-tratos acontecem todos os dias.</li><li>Os animais mais tímidos, assustados e/ou portadores de alguma deficiência precisam e merecem a nossa redobrada atenção.</li><li>Nunca esquecer que a base do sucesso do trabalho de equipa está em saber respeitar as diferentes sensibilidades e opiniões.</li></ul>",
+    "text-2": "<p><b>Regras de boa conduta:</b></p><p>Quem deseja fazer voluntariado na PatudosVagos - Associação é porque gosta de animais e deve ter consciência que está a fazer de livre vontade. Não sinta que tem de saber tudo e, como tal salientamos algumas regras:</p><ul><li>É a falar que as pessoas se entendem. Por isso fale, pergunte e acima de tudo, escute os outros voluntários mais experientes.</li><li>Siga as regras. Se não tem a certeza se pode ou não fazer, não faça. As regras existem todas por algum motivo e na sua maioria estão relacionadas com a segurança dos patudos.</li><li>Nunca se comprometa com algo que não consegue cumprir. O trabalho de voluntariado é um trabalho de equipa. Se, por algum motivo não puder comparecer, seja em qualquer compromisso que tenha com a PatudosVagos - Associação, deverá comunicar com a maior antecedência possível.</li><li>A entrada/aceitação de animais é sempre sujeita a aprovação pela Direção da Associação.</li><li>Sempre que tiver uma ideia inovadora e de melhoria para os animais ou para as Instalações, pode partilhar connosco.</li><li>Todos os voluntários têm acesso aos nossos grupos onde partilhamos ideias e organizamos o dia a dia.</li></ul><p><b>Se isto vos faz felizes, apareçam!</b></p>"
+  },
+  "about-us": {
+    "title": "Quem somos?",
+    "intro": "<ul><li>A PatudosVagos - Associação, é uma associação sem fins lucrativos, com o número de Identificação fiscal 516 436 634, com sede em Rua de São Pedro n° 40, Calvão, Vagos.</li><li>A PatudosVagos - Associação tem por missão resgatar os animais em apuros, prestar os cuidados necessários aos mesmos e procurar-lhes famílias para sempre!</li><li>A PatudosVagos - Associação dedica-se igualmente à sensibilização e informação da população em geral com vista a uma mudança de comportamentos e mentalidades para com todos os seres vivos que são sensíveis à dor, ao stress e à angústia.</li><li>Na PatudosVagos - Associação os valores são a responsabilidade, o compromisso e a sensibilização. Sendo uma preocupação constante o respeito pela vida, o combate do abandono de animais e a sua esterilização em massa.</li></ul><p>Apesar de cada um de nós ter começado o nosso voluntariado a solo e em diferentes alturas, foi em 2021 que fundamos a PatudosVagos. Inicialmente era totalmente trabalho voluntário, realizado por pessoas amigas dos animais, que disponibilizavam o seu tempo livre a esta causa. Com o crescer da associação criámos alguns postos de trabalho para garantir diariamente o tratamento de todos os patudos na nossa alçada, resgates e outras ações necessárias.</p>",
+    "text": "<p>A PatudosVagos - Associação tem como objetivos:</p><ul><li>A recolha, defesa e proteção de animais abandonados e/ou desprotegidos e/ou vítimas de maus-tratos.</li><li>Tratamento de animais feridos, doentes ou em risco imediato.</li><li>Medicina preventiva no maior número possível de animais para mitigar o efeito das viroses existentes.</li><li>A procura de famílias decentes e para sempre para todos os nossos patudos.</li><li>A sensibilização da população para temáticas de abandono animal e a importância da esterilização e identificação eletrónica.</li><li>O apoio a cuidadores de colónia e de animais de rua, através da sensibilização para esterilização.</li></ul><p>Nas nossas instalações estão patudos oriundos de todo o tipo de situações imagináveis. Alguns são animais medrosos, a maioria são muito carentes de afeto, paciência e interação humana.</p><p>Os nossos animais não passam fome, nem sede e têm acompanhamento veterinário. Têm todos acesso a parques de recreio para socializarem, brincarem e serem felizes.</p><p>A saúde e o bem estar dos animais a nosso cargo é a nossa prioridade. Logo seguidos pela importância de encontrarmos famílias para os nossos meninos e assim ganharmos vagas para ajudarmos ainda mais patudos! É um ciclo e precisamos de todas as ajudas que conseguirmos para mudarmos a vida do maior número possível de Patudos.</p>"
+  },
+  "homepage": {
+    "about-us": {
+      "title": "Quem somos",
+      "text": "Somos uma associação animal criada com a missão de tentar ajudar a salvar animais abandonados. Desde a nossa criação, e já resgatamos centenas de animais com a ajuda da nossa comunidade e de todas as pessoas que nos ajudam todos os dias. "
+    },
+    "services": {
+      "title": "Os nossos serviços",
+      "cta": "Agendar",
+      "message": "Olá. Gostaria de receber mais informações sobre o seguinte serviço:",
+      "pet-hotel": {
+        "title": "Hotel animal",
+        "subtitle": "Vai de férias descansado!",
+        "text": "<p>Confia em nós para cuidar do teu melhor amigo como se fosse parte da nossa própria família.</p><p>Faz a tua reserva e proporciona ao teu amiguinho peludo umas férias inesquecíveis no nosso Hotel Animal!</p>"
+      },
+      "doggy-daycare": {
+        "title": "Creche canina",
+        "subtitle": "Socialização, exercícios e estimulação mental",
+        "text": "<p>Ideal para cães que passam muito tempo sozinhos e que precisam de socializar!</p><p>Contacta-nos para saber mais.</p>"
+      },
+      "pet-sitting": {
+        "title": "Pet sitting",
+        "subtitle": "Não deixe seus animais de estimação sozinhos!",
+        "text": "<p>Precisas de alguém de confiança que olhe pelo teu amigo peludo?</p><p>Agenda já o nosso serviço de pet sitting!</p>"
+      }
+    },
+    "pets": {
+      "title": "Conhece os nossos mais recentes amiguinhos",
+      "cta": "Ver todos"
+    },
+    "banners": {
+      "volunteer": {
+        "title": "Torna-te voluntário!",
+        "subtitle": "Voluntariado",
+        "message": "Os nossos patudos precisam de ti!"
+      },
+      "donate": {
+        "title": "Faz uma doação!",
+        "subtitle": "Doar",
+        "message": "Os nossos patudos merecem!"
+      },
+      "adopt": {
+        "title": "Conhece o teu novo BFF!",
+        "subtitle": "Adotar",
+        "message": "Espreita os nossos animais e apaixona-te!"
+      }
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "header": {
+    "adopt": {
+      "text": "Adopt",
+      "url": "adopt"
+    },
+    "sponsor": {
+      "text": "Sponsor",
+      "url": "sponsor"
+    },
+    "pet-hotel": {
+      "text": "Pet Hotel",
+      "url": "pet-hotel"
+    },
+    "doggy-daycare": {
+      "text": "Doggy Daycare",
+      "url": "doggy-daycare"
+    },
+    "pet-sitting": {
+      "text": "Pet Sitting",
+      "url": "pet-sitting"
+    },
+    "about-us": {
+      "text": "About Us",
+      "url": "about-us"
+    }
+  },
+  "footer": {
+    "title": {
+      "column-1": "General information",
+      "column-2": "Donations"
+    },
+    "links": {
+      "volunteer": {
+        "text": "Volunteer",
+        "url": "volunteer"
+      },
+      "donate": {
+        "text": "Donate",
+        "url": "donate"
+      },
+      "privacy-policy": {
+        "text": "Privacy Policy",
+        "url": "privacy-policy"
+      },
+      "adoption-conditions": {
+        "text": "Adoption Terms",
+        "url": "adoption-conditions"
+      },
+      "wire-transfer": {
+        "text": "Wire Transfer: PT50 0007 0000 0053 9933 2352 3"
+      },
+      "mbway": {
+        "text": "Mbway: 915 152 155"
+      },
+      "paypal": {
+        "text": "Paypal: patudosdevagos@gmail.com"
+      }
+    }
+  },
+  "pet-details": {
+    "sex": {
+      "title": "Sex",
+      "female": "Female",
+      "male": "Male"
+    },
+    "size": {
+      "title": "Size"
+    },
+    "color": {
+      "title": "Color"
+    },
+    "vaccinated": {
+      "title": "Vaccinated"
+    },
+    "sterilized": {
+      "female": "Sterilized",
+      "male": "Sterilized"
+    },
+    "dewormed": {
+      "female": "Dewormed",
+      "male": "Dewormed"
+    },
+    "fivFelv": {
+      "title": "Fiv/Felv"
+    },
+    "buttons": {
+      "know-my-story": "Get to know my story",
+      "adopt-me": "Adopt me",
+      "message": "Hi! I am interested to know more about the following pet:"
+    }
+  },
+  "other-info": {
+    "error": {
+      "message": "An error has ocurred",
+      "button": "Refresh page"
+    },
+    "type": {
+      "cat": "Cat",
+      "dog": "Dog"
+    },
+    "age": {
+      "baby": "Baby",
+      "junior": "Junior",
+      "adult": "Adult",
+      "senior": "Senior"
+    },
+    "time": {
+      "month": "month",
+      "months": "months",
+      "year": "year",
+      "years": "years"
+    },
+    "months": {
+      "1": "January",
+      "2": "February",
+      "3": "March",
+      "4": "April",
+      "5": "May",
+      "6": "June",
+      "7": "July",
+      "8": "August",
+      "9": "September",
+      "10": "October",
+      "11": "November",
+      "12": "December"
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "type": "Species",
+    "color": "Color",
+    "age": "Age",
+    "sex": "Sexo",
+    "size": "Size",
+    "special-needs": "Exclude special needs pets",
+    "clear-all-filters": "Clear all filters"
+  },
+  "sort-by": {
+    "title": "Order by",
+    "age-desc": "Youngest pets first",
+    "age-asc": "Oldest pets first",
+    "pickup-desc": "Newer pickups",
+    "pickup-asc": "Older pickups"
+  },
+  "adoption-form": {
+    "title": "Adoption Conditions",
+    "subtitle": "Adoption and Responsibility Terms",
+    "form": "Adoption Request",
+    "text": "<p>All our animals are delivered vaccinated, dewormed and chipped.</p><p>We have an adoption fee of €40 to help us cover the costs we incur with the animals.</p><p><b>Sterilization is mandatory between 4 and 6 months of age</b>, so a deposit of another €40 (for female kittens) or €25 (for male kittens) remains until the animal is sterilized.</p><p>You can choose to have the sterilization done with the clinic with which we have a partnership, with the surgeries already paid for with the deposit amount. Or you can do it at another veterinarian and, in that case, the deposit is returned when we receive the sterilization declaration, as long as it is made by the day the animal turns 7 months old. Otherwise the value is lost.</p><p>The animal's chip remains in the name of PatudosVagos until it is sterilized. When we receive the sterilization declaration, the ownership of the chip will be changed to the name of your new family.</p><p>From the date of adoption, adopters assume full responsibility for the animal under all circumstances. Consult our <a>Adoption and Responsibility Terms</a></p><p>In the event of non-compliance with sterilization within the agreed deadlines and failure to present the sterilization declaration, we will notify the competent authorities and we will retrieve the animal and proceed with its sterilization.</p><p>For cats, we only do FIV and FeLV testing when they are sterilized. However, you can request it beforehand and it costs €25.</p><p>These specific animals will be delivered sterilized, vaccinated, dewormed, chipped and FIV and FeLV tested. We have an adoption fee of €65 to help cover the costs we incur with the animals.</p><p>They are babies and they need super families ❤ who love them, respect them and take care of them forever. </p>",
+    "alert": "Before moving forward with the adoption request, please consult our <link>adoption terms</link>.",
+    "notice": "<p>The adopter must:</p><ol><li>Is responsible for providing shelter and food to the animal, as well as veterinary medical monitoring</li><li>Continue with the indicated vaccines and boosters.</li ><li>You are aware that the animal can become ill at any time in its life and it is the adopter's obligation to provide the best veterinary support available, as well as bearing the costs, from the moment they receive their animal. Only those who have the financial resources to support the animal should adopt. </li><li> You know that an animal can live for more than 20 years and that it is your responsibility to take care of it throughout its life. </li><li> You commit to, in case you can no longer have custody, of the animal, immediately inform PATUDOSVAGOS - ASSOCIAÇÃO and take care of the animal until a new home is found or pay a return fee of €100. </li><li>In case of suspected mistreatment of the animal, PATUDOSVAGOS - ASSOCIAÇÃO will visit the adopter's residence and, if it is proven that the animal is a victim of mistreatment, it will be removed from the owner.</li></ol>",
+    "thank-you": "Thank you!<p>We will get in touch as soon as possible.</p>",
+    "error": "An error has ocurred. Please try again",
+    "yes": "Yes",
+    "no": "No",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone number",
+      "municipality": "Municipality",
+      "pets-at-home": "Do you have pets at home?",
+      "how-many-pets": "How many?",
+      "pet-types": "What type?",
+      "how-many-sterilized": "How many are sterilized?",
+      "submit": "Submit"
+    }
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "content": "<p>At Associação Patudos Vagos we treat your data with the utmost care. Our aim is to be transparent about the data we collect and to give you control over your information and how it may be used.</p><h2>Where we collect your personal data</h2><p>The Your personal data is collected under the following circumstances:</p><ul><li>When you provide us with your data directly, that is, when: you make a donation, use one of our services, purchase one of our products, show interest to become our employee or volunteer, contact us with a question, seek our help, adopt a companion animal, participate in association training.</li><li>When you provide us with your data indirectly: you may provide it us your information whenever you participate in an event organized by another entity but with the collaboration of Associação Patudos Vagos. Patudos Vagos' partners, in the aforementioned eventuality, will always ask for your consent on behalf of Patudos Vagos.</li><li>When you use Patudos Vagos' social networks: when you use our services on the social networks Facebook and Instagram, Your privacy settings may give us access to your information. These cookies give us detailed information about how our users use our social networks. You can view and change your settings on each of the following social networks (Facebook, Instagram)</li><li>When your information is in the public domain: we may obtain your information whenever you advertise it, or through social media .</li><li>When we collect information through our website: Cookies, When visiting the Patudos Vagos website you will also be providing us with your dynamic IP address, Google Analytics, Google Tag Manager and Google AdWords.</li></ul><h2>What personal data do we collect?</h2><ul><p>Personal data: name, email, telephone, address, country of residence, date of birth, dynamic IP address, others for adoption or training purposes</p></ul><h2>How do we use your data?</h2><p>There are 6 legal bases for processing your personal data, only 3 apply to Patudos Vagos:</p><ul><li>Contract: There is always a contractual relationship between users of Patudos Vagos services and platforms and Patudos Vagos itself, therefore, as the party involved, it has associated rights and duties.</li><li >Legitimate Interest: Patudos Vagos only uses your personal data for legitimate purposes and is committed to always considering your rights and minimizing the impact of any violations of your privacy.</li><li>Consent: The information is only processed based on your explicit consent.</li></ul><p>We use your data in:</p><ul><li>Marketing and Fundraising: Patudos Vagos uses your personal data for marketing and fundraising purposes, only within the scope of activities of the association or partners. (see marketing and consent section)</li><li>Provision of Services and Sales: Whenever you request services from Patudos Vagos, in order to fulfill your request, we will always process your data; Including adoptions and training</li></ul><h2>Marketing and consent</h2><p>Patudos Vagos will only send communications that it deems to be of interest to you, these communications may be for advertising or fundraising purposes. funds but also just to provide you with news about the association.</p><p>Whenever you register for our newsletter you will receive an email where your consent will be required so that you can receive our information. In all communications we send you, you will have the possibility to delete your data from our database and thus stop receiving information from us. If this communication is made by direct email, you can also respond with your wish to stop receiving our information.</p><h2>If we share your data with third parties</h2><p>Patudos Vagos will never sell your personal data to third parties for marketing or other reasons.</p><h2>The security of your data</h2><p>Your data protection rights are in accordance with the General Data Protection Regulation Data in force since May 25, 2018.</p><p>Your rights are:</p><ul><li>The right to be informed whether your data is being stored, processed or transferred</li><li>Access to your data and information</li><li>The possibility of corrections to your data</li><li>The right to have your data deleted from our or third party databases to whom we provide them, except in cases provided for by law or in accordance with the association's adoption and formation regulations</li><li>The right to restriction of processing. You have the right to limit the way we process your data, except in cases provided for in legislation or in accordance with the association's adoption and formation regulations</li><li>The right to portability, this right, for the services provided does not apply to Patudos Vagos.</li><li>The right to objection, except in cases provided for in legislation or in accordance with the adoption and formation regulations of the association</li><li>The right to understand and be explained if your data is being segmented and for what reasons.</li></ul><h2>How long do we store your data?</h2><p>Patudos Vagos will store your data for the time necessary to pursue the purposes for which this data was collected, with the following exceptions: </p><ul><li>In the case of certified training for the time necessary and required by current legislation.</li><li>In the case of adoptions, we will keep your data even after the death of your animal.</li></ul><h2>What should you do if Do you want to ask any questions or have any concerns?</h2><p>Whenever you require any clarification, you should contact Patudos Vagos via email geral@patudosvagos.pt.</p>"
+  },
+  "donate": {
+    "title": "Donations",
+    "text": "Your donations can save lives!"
+  },
+  "volunteer": {
+    "highlight": "Ser Voluntário",
+    "title": "da Patudos Vagos",
+    "text-1": "<p>Being a Volunteer means giving what we are willing to give. Each volunteer gives what he wants. Be it:</p><ul><li>time for a photo session</li><li>Take care of dogs and/or cats</li><li>Help with rescues</li><li>Set up a new toy/hobby for our boys</li><li>Organize awareness campaigns</li><li>Help with a collection of goods</li><li>Help with sales and/or fundraising</li> <li>Help with capturing CED and with all logistics</li><li>Help monetarily or with donations</li><li>Just treats! So important for them!</li><li>Any and all help is welcome! Just say how you want to help</li></ul><p>PatudosVagos - Association currently has 2 shelters. One in Santo André de Vagos and another in Gafanha da Nazaré. Both still under construction!</p><p><b>Volunteer work helps animals have a better quality of life.</b></p><p>Volunteering is not a job or rigid work, therefore, any type of formal contract is excluded. However, commitment, commitment and assiduity are fundamental requirements. The organization and management of existing resources is carried out by members of the association's management and is very important for good structural functioning. The work carried out by volunteers to help should not be taken as an obligation, but rather seen as a time of satisfaction, dedication and healthy coexistence.</p><ul><li>Work as a volunteer is extremely rewarding, without doubt, but due to the inability to successfully resolve all reported cases, it can be exhausting, since, unfortunately, cases of abandonment and mistreatment happen every day.</li><li>The most shy, scared and /or those with a disability need and deserve our extra attention.</li><li>Never forget that the basis of successful teamwork is knowing how to respect different sensibilities and opinions.</li></ul>",
+    "text-2": "<p><b>Rules of good conduct:</b></p><p>Anyone who wants to volunteer at PatudosVagos - Associação does so because they like animals and must be aware that they are doing it voluntarily. Don't feel like you have to know everything and, as such, we highlight some rules:</p><ul><li>It's by talking that people understand each other. So talk, ask questions and above all, listen to other more experienced volunteers.</li><li>Follow the rules. If you're not sure whether you can do it or not, don't do it. The rules all exist for a reason and most of them are related to the safety of the dogs.</li><li>Never commit to something you cannot fulfill. Volunteer work is team work. If, for any reason, you are unable to attend, be it any commitment you have with PatudosVagos - Associação, you must communicate as far in advance as possible.</li><li>The entry/acceptance of animals is always subject to approval by the Board of Directors. Association.</li><li>Whenever you have an innovative and improvement idea for the animals or the Facilities, you can share it with us.</li><li>All volunteers have access to our groups where we share ideas and organize day to day.</li></ul><p><b>If this makes you happy, show up!</b></p>"
+  },
+  "about-us": {
+    "title": "About us",
+    "intro": "<ul><li>PatudosVagos - Associação, is a non-profit association, with tax identification number 516 436 634, with headquarters at Rua de São Pedro n° 40, Calvão, Vagos.</li><li> PatudosVagos - Association's mission is to rescue animals in trouble, provide them with the necessary care and find them forever families!</li><li>PatudosVagos - Association is also dedicated to raising awareness and informing the general population with a view to changing behaviors and mentalities towards all living beings that are sensitive to pain, stress and anguish.</li><li>At PatudosVagos - Associação values are responsibility, commitment and awareness. Respect for life, combating the abandonment of animals and their mass sterilization are a constant concern.</li></ul><p>Although each of us began our volunteering solo and at different times, , it was in 2021 that we founded PatudosVagos. Initially it was entirely voluntary work, carried out by animal-friendly people, who volunteered their free time for this cause. As the association grew, we created some jobs to ensure daily treatment of all the dogs under our jurisdiction, rescues and other necessary actions.</p>",
+    "text": "<p>PatudosVagos - Association's objectives are:</p><ul><li>The collection, defense and protection of abandoned and/or unprotected animals and/or victims of abuse.</li><li> Treatment of animals that are injured, sick or at immediate risk.</li><li>Preventive medicine in as many animals as possible to mitigate the effect of existing viruses.</li><li>The search for decent families and forever all our big dogs.</li><li>Raising awareness among the population on issues of animal abandonment and the importance of sterilization and electronic identification.</li><li>Support for colony and street animal caregivers, through from awareness to sterilization.</li></ul><p>In our facilities there are big dogs from every imaginable situation. Some are fearful animals, most are very lacking in affection, patience and human interaction.</p><p>Our animals do not go hungry or thirsty and have veterinary care. Everyone has access to playgrounds to socialize, play and be happy.</p><p>The health and well-being of the animals in our care is our priority. Soon followed by the importance of finding families for our boys and thus gaining places to help even more big dogs! It's a cycle and we need all the help we can get to change the lives of as many Big Dogs as possible.</p>"
+  },
+  "homepage": {
+    "about-us": {
+      "title": "About us",
+      "text": "We are an animal association created with the mission of trying to help save abandoned animals. Since our creation, we have rescued hundreds of animals with the help of our community and all the people who help us every day."
+    },
+    "services": {
+      "title": "Our services",
+      "cta": "Schedule",
+      "message": "Hello. I would like to receive more information about the following service:",
+      "pet-hotel": {
+        "title": "Pet hotel",
+        "subtitle": "Go on vacation feeling relaxed!",
+        "text": "<p>Trust us to take care of your best friend as if he were part of our own family.</p><p>Make your reservation and give your furry friend an unforgettable vacation at our Pet Hotel!</p>"
+      },
+      "doggy-daycare": {
+        "title": "Doggy daycare",
+        "subtitle": "Socialization, exercise and mental stimulation",
+        "text": "<p>Ideal for dogs that spend a lot of time alone and need to socialize!</p><p>Contact us to find out more.</p>"
+      },
+      "pet-sitting": {
+        "title": "Pet sitting",
+        "subtitle": "Don't leave your pets alone!",
+        "text": "<p>Do you need someone you trust to look after your furry friend?</p><p>Book our pet sitting service now!</p>"
+      }
+    },
+    "pets": {
+      "title": "Meet our newest friends",
+      "cta": "See all"
+    },
+    "banners": {
+      "volunteer": {
+        "title": "Become a volunteer!",
+        "subtitle": "Volunteer",
+        "message": "Our pets need you!"
+      },
+      "donate": {
+        "title": "Make a donation",
+        "subtitle": "Donate",
+        "message": "Our pets deserve it!"
+      },
+      "adopt": {
+        "title": "Meet your new BFF!",
+        "subtitle": "Adopt",
+        "message": "Take a look at our pets and fall in love!"
+      }
+    }
+  }
+}

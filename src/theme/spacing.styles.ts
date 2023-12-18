@@ -1,0 +1,32 @@
+import { css } from "@emotion/react";
+
+export default css`
+  --spacing-0: 0;
+  --spacing-2: 0.2rem;
+  --spacing-4: 0.4rem;
+  --spacing-6: 0.6rem;
+  --spacing-8: 0.8rem;
+  --spacing-10: 1rem;
+  --spacing-12: 1.2rem;
+  --spacing-14: 1.4rem;
+  --spacing-16: 1.6rem;
+  --spacing-18: 1.8rem;
+  --spacing-20: 2rem;
+  --spacing-24: 2.4rem;
+  --spacing-28: 2.8rem;
+  --spacing-32: 3.2rem;
+  --spacing-36: 3.6rem;
+  --spacing-40: 4rem;
+  --spacing-44: 4.4rem;
+  --spacing-48: 4.8rem;
+  --spacing-60: 6rem;
+  --spacing-72: 7.2rem;
+  --spacing-80: 8rem;
+  --spacing-84: 8.4rem;
+  --spacing-90: 9rem;
+  --spacing-106: 10.6rem;
+  --spacing-108: 10.8rem;
+  --spacing-128: 12.8rem;
+  --spacing-140: 14rem;
+  --spacing-160: 16rem;
+`;

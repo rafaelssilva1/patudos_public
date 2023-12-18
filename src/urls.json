@@ -1,0 +1,38 @@
+{
+  "urls": {
+    "adopt": { "href": "header.adopt.url", "text": "header.adopt.text" },
+    "sponsor": { "href": "header.sponsor.url", "text": "header.sponsor.text" },
+    "pet-hotel": {
+      "href": "header.pet-hotel.url",
+      "text": "header.pet-hotel.text"
+    },
+    "doggy-daycare": {
+      "href": "header.doggy-daycare.url",
+      "text": "header.doggy-daycare.text"
+    },
+    "pet-sitting": {
+      "href": "header.pet-sitting.url",
+      "text": "header.pet-sitting.text"
+    },
+    "about-us": {
+      "href": "header.about-us.url",
+      "text": "header.about-us.text"
+    },
+    "volunteer": {
+      "href": "footer.links.volunteer.url",
+      "text": "footer.links.volunteer.text"
+    },
+    "donate": {
+      "href": "footer.links.donate.url",
+      "text": "footer.links.donate.text"
+    },
+    "privacy-policy": {
+      "href": "footer.links.privacy-policy.url",
+      "text": "footer.links.privacy-policy.text"
+    },
+    "adoption-conditions": {
+      "href": "footer.links.adoption-conditions.url",
+      "text": "footer.links.adoption-conditions.text"
+    }
+  }
+}
